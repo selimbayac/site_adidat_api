@@ -1,0 +1,15 @@
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\bin\Debug\net7.0\LMS.Services.deps.json
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\bin\Debug\net7.0\LMS.Services.dll
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\bin\Debug\net7.0\LMS.Services.pdb
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\bin\Debug\net7.0\LMS.Data.dll
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\bin\Debug\net7.0\LMS.Data.pdb
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.csproj.AssemblyReference.cache
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.AssemblyInfoInputs.cache
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.AssemblyInfo.cs
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.csproj.CoreCompileInputs.cache
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.csproj.CopyComplete
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.dll
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\refint\LMS.Services.dll
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\LMS.Services.pdb
+E:\Masaüstü\Adidat_Odeme_sitesi\Site_aidat_apı\LMS.Services\obj\Debug\net7.0\ref\LMS.Services.dll
